@@ -86,3 +86,10 @@ margin-bottom: 27px;
     text-decoration: none;
     color: #562EFF;
 }
+
+/* courses styles */
+
+.course .course-banner img{
+    width: 266px;
+    height: 141px;
+}
